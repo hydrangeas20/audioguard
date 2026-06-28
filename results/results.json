@@ -1,4 +1,12 @@
 {
+  "config": {
+    "fgsm_eps": 0.03,
+    "pgd_eps": 0.03,
+    "pgd_steps": 10,
+    "label_smoothing": 0.1,
+    "n_classes": 10,
+    "seed": 42
+  },
   "baseline": {
     "clean": 0.81875,
     "fgsm": 0.6875,
