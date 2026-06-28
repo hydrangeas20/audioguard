@@ -158,7 +158,7 @@ audioguard/
 │   └── AudioGuard.ipynb
 │
 ├── paper/
-│   └── audioguard.pdf *coming soon! 
+│   └── audioguard.pdf
 │
 ├── figures/
 │   ├── robustness_comparison.png
